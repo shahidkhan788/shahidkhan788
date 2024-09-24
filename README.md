@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahidkhan788
 - 👀 I’m interested in Python & SQL.
 - 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on with a Data Engineer.
+- 💞️ I’m looking to collaborate with a Data Engineer.
 - 📫 How to reach me? LinkedIn : https://www.linkedin.com/in/shahid-khan-505876257/
 
 <!---

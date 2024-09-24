@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahidkhan788
+- 👋 Hi, I’m Shahid Khan
 - 👀 I’m interested in Python & SQL.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate with a Data Engineer.

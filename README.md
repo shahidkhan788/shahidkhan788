@@ -1,1 +1,1 @@
-Enthusiastic with skills in Python, SQL, and PySpark. Proficient in MSSQL and SSMS for data processing and analysis. Eager to contribute enthusiasm, adaptability, and a fresh perspective to a dynamic team.
+
